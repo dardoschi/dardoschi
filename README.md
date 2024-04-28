@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.kym-cdn.com/photos/images/newsfeed/001/235/967/073.gif" align="center" height="" width="600" />
+<img src="https://i.kym-cdn.com/photos/images/newsfeed/001/235/967/073.gif" align="center" height="" width="500" />
 </div>  
   
 
@@ -82,6 +82,3 @@
 </div>  
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
